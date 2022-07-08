@@ -24,7 +24,7 @@ import {MatInputModule} from '@angular/material/input'
     MatGridListModule,
     MatAutocompleteModule,
     MatFormFieldModule,
-    MatInputModule
+    MatInputModule,
   ]
 })
 export class MaterialModule { }
