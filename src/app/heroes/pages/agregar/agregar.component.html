@@ -55,7 +55,7 @@
         <div fxLayout>
             <button mat-raised-button (click)="guardar()">
                 <mat-icon>edit</mat-icon>
-                Guradar
+                {{(heroe.id)? 'Actualizar': 'Crear'}}
             </button>
             <span class="spacer"></span>
 
