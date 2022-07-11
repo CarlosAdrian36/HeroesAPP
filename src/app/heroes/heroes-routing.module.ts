@@ -18,7 +18,7 @@ const rutas :Routes =[
         component: ListadoComponent
       },
       {
-        path: ' agregar',
+        path: 'agregar',
         component: AgregarComponent
       },
       {
